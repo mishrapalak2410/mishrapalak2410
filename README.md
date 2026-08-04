@@ -49,7 +49,7 @@
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/mishrapalak2410
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn:https://www.linkedin.com/in/palak-m-8ba797412
 
 ---
 
