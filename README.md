@@ -1,51 +1,84 @@
 <h1 align="center">Hi 👋, I'm Palak Mishra</h1>
 
-<h3 align="center">BCA Student (2027) | Aspiring Software Developer | C++ & DSA Learner</h3>
+<p align="center">
+  <strong>BCA Student (2027) | Aspiring Software Developer | C++ & DSA Enthusiast</strong>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Learning+C%2B%2B+%26+Data+Structures;Building+Projects;Preparing+for+Placements" />
+  <a href="https://github.com/mishrapalak2410">
+    <img src="https://komarev.com/ghpvc/?username=mishrapalak2410&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 BCA Student (2027)
-- 💻 Aspiring Software Developer
+- 🎓 BCA Student graduating in **2027**
+- 💻 Passionate about **Software Development**
 - 🌱 Currently learning **C++, Data Structures & Algorithms**
-- 📚 Improving problem-solving skills through consistent practice
-- 🎯 Preparing for software development internships and placements
+- 🚀 Exploring **Web Development** and **Open Source**
+- 🎯 Focused on building strong problem-solving skills and preparing for software engineering roles
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++, Python, JavaScript
-- **Frontend:** HTML, CSS
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
-
----
-
-## 📚 Currently Learning
-
+**Languages**
 - C++
-- STL
+- Python
+- JavaScript
+
+**Frontend**
+- HTML
+- CSS
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📖 Currently Learning
+
 - Data Structures & Algorithms
+- C++ STL
+- Object-Oriented Programming
 - Git & GitHub
-- Web Development
+- Problem Solving on LeetCode
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishrapalak2410&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishrapalak2410&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mishrapalak2410&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrapalak2410&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 2026 Goals
 
-- GitHub: https://github.com/mishrapalak2410
-- LinkedIn: https://www.linkedin.com/in/palak-m-8ba797412
+- Solve 300+ DSA problems
+- Build meaningful software projects
+- Strengthen C++ fundamentals
+- Contribute to Open Source
+- Secure a Software Developer Internship
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 📧 Email: *(Add your professional email)*
+
+---
+
+<p align="center">
+<i>"Consistency beats intensity. Keep learning, keep building."</i>
+</p>
