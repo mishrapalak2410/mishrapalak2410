@@ -1,23 +1,37 @@
-<h1 align="center">Hi 👋, I'm Palak Mishra</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Software Developer • BCA Student • DSA Enthusiast
-</h3>
+# Hi 👋 I'm Palak Mishra
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Software+Developer;C%2B%2B+%7C+Python+%7C+Java;Learning+Something+New+Every+Day+🚀" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;BCA+Student;DSA+Enthusiast;C%2B%2B+%7C+Python+%7C+Java;Always+Learning+New+Things+🚀" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
 - 🎓 Third-Year BCA Student
 - 💻 Passionate about Software Development
-- 🌱 Currently learning **Data Structures & Algorithms (C++)**
-- 📚 Exploring Backend Development & Databases
-- 🎯 Preparing for Software Development Internships
-- ⚡ I enjoy solving coding problems and continuously improving my skills.
+- 🌱 Learning Data Structures & Algorithms
+- 🚀 Exploring Backend Development
+- 📚 Love solving coding problems
+- 🎯 Goal: Software Developer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
 
 ---
 
@@ -25,40 +39,31 @@ Aspiring Software Developer • BCA Student • DSA Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,vscode,mysql&perline=5" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,mysql,vscode,linux&perline=6"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- Backend Development
-- SQL
-- Git & GitHub
-
----
-
-## 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -68,38 +73,28 @@ Aspiring Software Developer • BCA Student • DSA Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ Quote
 
 <p align="center">
 
-<a href="https://github.com/mishrapalak2410">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/palak-m-8ba797412">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+### ⭐ Thanks for visiting my profile! ⭐
 
-</p>
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+</div>
