@@ -1,45 +1,32 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Palak Mishra</h1>
+<h3 align="center">BCA Student | Aspiring Software Developer | DSA Enthusiast</h3>
 
-# Hi 👋 I'm Palak Mishra
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+in+Progress;Learning+Data+Structures+%26+Algorithms;Backend+Development+Explorer;Building+Projects+Every+Day" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;BCA+Student;DSA+Enthusiast;C%2B%2B+%7C+Python+%7C+Java;Always+Learning+New+Things+🚀" />
-
-<img src="https://komarev.com/ghpvc/?username=mishrapalak2410&style=for-the-badge&color=blue"/>
-
-</div>
-
----
-
-## 💫 About Me
-
-- 🎓 Third-Year BCA Student
-- 💻 Passionate about Software Development
-- 🌱 Learning Data Structures & Algorithms
-- 🚀 Exploring Backend Development
-- 📚 Love solving coding problems
-- 🎯 Goal: Software Developer
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/mishrapalak2410">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/palak-m-8ba797412">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mishrapalak2410&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💫 About Me
+
+- 🎓 Third-Year BCA Student
+- 💻 Passionate about Software Development
+- 🌱 Currently learning Data Structures & Algorithms
+- 🚀 Exploring Backend Development
+- 📚 Improving Problem Solving Skills
+- 🎯 Goal: Become a Software Engineer
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,mysql,vscode,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github,vscode,mysql"/>
 
 </p>
 
@@ -49,15 +36,19 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mishrapalak2410 &show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mishrapalak2410&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mishrapalak2410 &theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrapalak2410&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrapalak2410 &layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mishrapalak2410&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -67,7 +58,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrapalak2410 &theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrapalak2410&theme=tokyo-night"/>
 
 </p>
 
@@ -77,24 +68,16 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mishrapalak2410 &theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mishrapalak2410&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# ⚡ Quote
+# 💬 Quote
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
+> **"Success is built one commit at a time."**
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-</div>
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
