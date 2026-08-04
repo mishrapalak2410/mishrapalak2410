@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Palak Mishra</h1>
+<h1 align="center">Hello, I'm Palak Mishra</h1>
 <h3 align="center">BCA Student | Aspiring Software Developer | DSA Enthusiast</h3>
 
 <p align="center">
